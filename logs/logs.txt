@@ -1,0 +1,68 @@
+        Start adding movement
+Movement: {time=20, angle=95}
+Movement: {time=20, angle=100}
+Movement: {time=20, angle=105}
+Movement: {time=20, angle=110}
+Movement: {time=20, angle=115}
+Movement: {time=20, angle=120}
+Movement: {time=20, angle=120}
+Movement: {time=20, angle=85}
+Movement: {time=20, angle=80}
+Movement: {time=20, angle=75}
+Movement: {time=20, angle=70}
+Movement: {time=20, angle=65}
+Movement: {time=20, angle=60}
+Movement: {time=20, angle=60}
+Movement: {time=20, angle=90}
+Movement: {time=20, angle=93}
+Movement: {time=20, angle=96}
+Movement: {time=20, angle=99}
+Movement: {time=20, angle=102}
+Movement: {time=20, angle=105}
+Movement: {time=20, angle=105}
+Movement: {time=20, angle=90}
+        Finished adding movement
+Millis=2665, lastMovement=1940, Movement: {time=20, angle=95}
+    Executed at: 2742
+Millis=2755, lastMovement=2748, Movement: {time=20, angle=100}
+    Executed at: 2832
+Millis=2845, lastMovement=2838, Movement: {time=20, angle=105}
+    Executed at: 2922
+Millis=2935, lastMovement=2928, Movement: {time=20, angle=110}
+    Executed at: 3013
+Millis=3026, lastMovement=3019, Movement: {time=20, angle=115}
+    Executed at: 3103
+Millis=3117, lastMovement=3109, Movement: {time=20, angle=120}
+    Executed at: 3193
+Millis=3208, lastMovement=3201, Movement: {time=20, angle=120}
+    Executed at: 3284
+Millis=3298, lastMovement=3291, Movement: {time=20, angle=85}
+    Executed at: 3374
+Millis=3387, lastMovement=3380, Movement: {time=20, angle=80}
+    Executed at: 3463
+Millis=3477, lastMovement=3470, Movement: {time=20, angle=75}
+    Executed at: 3553
+Millis=3566, lastMovement=3559, Movement: {time=20, angle=70}
+    Executed at: 3642
+Millis=3655, lastMovement=3648, Movement: {time=20, angle=65}
+    Executed at: 3731
+Millis=3745, lastMovement=3738, Movement: {time=20, angle=60}
+    Executed at: 3821
+Millis=3834, lastMovement=3827, Movement: {time=20, angle=60}
+    Executed at: 3910
+Millis=3923, lastMovement=3916, Movement: {time=20, angle=90}
+    Executed at: 3999
+Millis=4014, lastMovement=4006, Movement: {time=20, angle=93}
+    Executed at: 4089
+Millis=4103, lastMovement=4096, Movement: {time=20, angle=96}
+    Executed at: 4178
+Millis=4192, lastMovement=4185, Movement: {time=20, angle=99}
+    Executed at: 4268
+Millis=4282, lastMovement=4275, Movement: {time=20, angle=102}
+    Executed at: 4359
+Millis=4372, lastMovement=4365, Movement: {time=20, angle=105}
+    Executed at: 4449
+Millis=4462, lastMovement=4455, Movement: {time=20, angle=105}
+    Executed at: 4540
+Millis=4553, lastMovement=4546, Movement: {time=20, angle=90}
+    Executed at: 4629
